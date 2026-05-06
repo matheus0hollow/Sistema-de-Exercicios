@@ -1,10 +1,10 @@
-# 📚 Sistema de Exercícios em Python
+#Sistema de Exercícios em Python
 
 Este repositório foi desenvolvido com o objetivo de armazenar exercícios realizados durante as aulas, aplicando conceitos fundamentais da linguagem Python e práticas de versionamento com Git e GitHub.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##Tecnologias utilizadas
 
 - Python 3
 - Git
@@ -12,7 +12,7 @@ Este repositório foi desenvolvido com o objetivo de armazenar exercícios reali
 
 ---
 
-## 📂 Estrutura do Projeto
+##Estrutura do Projeto
 
 O projeto está organizado por temas:
 
@@ -27,7 +27,7 @@ Cada pasta/arquivo contém exercícios relacionados ao tema proposto.
 
 ---
 
-## 🛠 Funcionalidades
+##Funcionalidades
 
 - Exercícios práticos de programação
 - Aplicação de lógica de programação
@@ -40,7 +40,7 @@ Cada pasta/arquivo contém exercícios relacionados ao tema proposto.
 
 ---
 
-## 🔄 Controle de Versão
+##Controle de Versão
 
 O projeto utiliza Git para controle de versão, com:
 
@@ -50,7 +50,7 @@ O projeto utiliza Git para controle de versão, com:
 
 ---
 
-## ▶️ Como executar
+##Como executar
 
 1. Clone o repositório:
 ```bash
@@ -59,9 +59,8 @@ Acesse a pasta:
 cd Sistema-de-Exercicios
 Execute um arquivo:
 python nome_do_arquivo.py
-👤 Autor
-Matheus Maceno
+*Autor Matheus Maceno
 
-📌 Observações
+Observações
 
 Este projeto tem fins acadêmicos e foi desenvolvido como parte de atividades práticas da disciplina.
